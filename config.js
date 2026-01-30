@@ -75,6 +75,14 @@ const CONFIG = {
 
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
+    music: {
+    enabled: true,
+    autoplay: true,
+    musicUrl: "https://res.cloudinary.com/dfhwpwfit/video/upload/v1769788103/Edd_Sheeran_-_Perfect__mp3.pm_yy6sxk.mp3", // Paste your URL here
+    startText: "🎵 Play Music",
+    stopText: "🔇 Stop Music",
+    volume: 0.5
+},
 
 };
 
